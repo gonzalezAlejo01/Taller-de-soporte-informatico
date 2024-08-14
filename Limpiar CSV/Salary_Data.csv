@@ -1,0 +1,26 @@
+﻿Age, Gender, Education_Level, Job_Title, Years_Of_Experience, Salary
+32, Male, Bachelor's, Software Engineer, -, $90.000
+28, Female, Master's, Data Analyst, 3, $65000
+45, M, PhD, Senior Manager, 15, 150.000
+36, Female, Bachelor's, Sales Associate, 7, $60000
+52, Male, Master's, Director, 20, 200000
+29, F, Bachelor's, Marketing Analyst, 2, 55000
+42, Female, Master's, Product Manager, 12, 120000
+31, Male, Bachelor's, Sales Manager, 4, $80000
+26, Non Binary, Bachelor's, Marketing Coordinator, 1, $45.000
+38, Male, PhD, Senior Scientist, 10, 110000
+29, M, Master's, Software Developer, 3, $75000
+48, Female, Bachelor's, HR Manager, 18, 140.000
+35, Male, Bachelor's, Financial Analyst, 6, $65000
+40, F, Master's, Project Manager, 14, 130000
+27, Male, Bachelor's, Customer Service Rep, -, $40000
+44, Male, Bachelor's, Operations Manager, 16, $125.000
+33, F, Master's, Marketing Manager, 7, 90000
+39, Male, PhD, Senior Engineer, 12, 115000
+25, Other, Bachelor's, Data Entry Clerk, -, 35000
+51, M, Bachelor's, Sales Director, 22, $180.000
+34, F, Master's, Business Analyst, 5, 80.000
+47, Male, Master's, VP of Operations, 19, $190000
+30, F, Bachelor's, IT Support, -, 50.000
+36, , Bachelor's, Recruiter, 9, 60000
+41, Male, Master's, Financial Manager, 13, $140000
